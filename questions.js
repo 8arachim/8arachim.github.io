@@ -558,7 +558,7 @@ questions = [
         }
     },
     {
-        "question": "Prostitution should be illegal.",
+        "question": "זנות צריכה להיות בלתי חוקית",
         "effect": {
             "econ": 0,
             "dipl": 0,
