@@ -17,7 +17,7 @@
 <script type="application/javascript"
         src="questions.js">
 </script>
-<h1>8values</h1>
+<h1 style="direction:rtl">8 הערכים</h1>
 <hr>
 <h2 style="text-align:center;" id="question-number" style="direction:rtl">טוען...</h2>
 <p class="question" id="question-text"></p>
@@ -64,7 +64,7 @@ stats"></a></div></noscript>
     }
     function init_question() {
         document.getElementById("question-text").innerHTML = questions[qn].question;
-        document.getElementById("question-number").innerHTML = "Question " + (qn + 1) + " of " + (questions.length);
+        document.getElementById("question-number").innerHTML = "שאלה " + (qn + 1) + " מתוך " + (questions.length);
         if (qn == 0) {
             document.getElementById("back_button").style.display = 'none';
             document.getElementById("back_button_off").style.display = 'block';
