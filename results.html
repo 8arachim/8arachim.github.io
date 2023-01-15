@@ -224,9 +224,9 @@ stats"></a></div></noscript>
 		ctx.fillText(version, 780, 90)
         ctx.textAlign="center"
         ctx.fillText(document.getElementById("economic-label").innerHTML + " :ציר הכלכלה", 400, 175)
-        ctx.fillText("ציר הדיפלומטיה: " + document.getElementById("diplomatic-label").innerHTML, 400, 295)
-        ctx.fillText("ציר הממשל: " + document.getElementById("state-label").innerHTML, 400, 415)
-        ctx.fillText("ציר החברה: " + document.getElementById("society-label").innerHTML, 400, 535)
+        ctx.fillText(document.getElementById("diplomatic-label").innerHTML + " :ציר הדיפלומטיה", 400, 295)
+        ctx.fillText(document.getElementById("state-label").innerHTML + " :ציר הממשל", 400, 415)
+        ctx.fillText(document.getElementById("society-label").innerHTML + " :ציר החברה", 400, 535)
 
         document.getElementById("banner").src = c.toDataURL();
     }
