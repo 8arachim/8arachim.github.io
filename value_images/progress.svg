@@ -51,9 +51,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="-45.254834"
-     inkscape:cy="214.25335"
+     inkscape:zoom="4.0000001"
+     inkscape:cx="62.124998"
+     inkscape:cy="174.5"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -192,7 +192,8 @@
     <g
        aria-label="קדמה"
        id="text368"
-       style="font-size:10.9361px;line-height:1.25;fill:#eeeeee;stroke-width:0.264583">
+       style="font-size:10.9361px;line-height:1.25;fill:#eeeeee;stroke-width:0.264583"
+       transform="translate(0,1.0583333)">
       <path
          d="m -65.079547,135.98127 h 4.624347 v 1.40973 q 0,0.60341 -0.112138,0.97186 -0.106798,0.36312 -0.389812,0.74759 l -0.283015,0.38447 q -0.437871,0.58739 -0.437871,1.24419 v 0.90779 h -1.019919 v -0.76361 q 0,-0.58205 0.101458,-0.93982 0.106797,-0.36311 0.437871,-0.77962 l 0.315053,-0.40584 q 0.229616,-0.29369 0.299034,-0.52864 0.07476,-0.2403 0.07476,-0.63011 v -0.76361 h -3.609767 z m 0.08544,7.8443 v -5.37193 h 0.9772 v 5.37193 z"
          id="path1251" />
