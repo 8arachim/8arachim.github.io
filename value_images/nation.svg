@@ -51,9 +51,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.99999999"
-     inkscape:cx="-78.000001"
-     inkscape:cy="-82.000001"
+     inkscape:zoom="2"
+     inkscape:cx="47.5"
+     inkscape:cy="57.5"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -92,7 +92,7 @@
      transform="translate(249.80447,-91.409467)">
     <g
        style="stroke-width:0.5"
-       transform="matrix(2,0,0,2,-249.80447,91.409466)"
+       transform="matrix(2,0,0,2,-249.80447,91.444545)"
        id="g5250-7">
       <path
          id="rect5238-5"
@@ -111,7 +111,7 @@
          inkscape:connector-curvature="0"
          id="path5244-6"
          d="m 0.7276035,18.520835 v 4.167188 c 0,1.539081 1.2390438,2.778125 2.778125,2.778125 H 22.952604 c 1.539081,0 2.778125,-1.239044 2.778125,-2.778125 v -4.167188 z"
-         style="opacity:1;fill:#222222;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.90944878;paint-order:normal" />
+         style="opacity:1;fill:#222222;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.909449;paint-order:normal" />
       <g
          aria-label="NATION"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:4.23333px;line-height:2.11667px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Medium';text-align:center;letter-spacing:0px;text-anchor:middle;display:none;opacity:1;fill:#eeeeee;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.11667;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
@@ -177,7 +177,8 @@
     <g
        aria-label="לאומיות"
        id="text257"
-       style="font-size:10.9361px;line-height:1.25;fill:#eeeeee;stroke-width:0.264583">
+       style="font-size:10.9361px;line-height:1.25;fill:#eeeeee;stroke-width:0.264583"
+       transform="translate(0,0.03507913)">
       <path
          d="m -210.68731,133.25141 h 3.13985 v 1.40973 q 0,0.59807 -0.11213,0.97186 -0.11214,0.36846 -0.38982,0.74759 l -0.28835,0.38447 q -0.43253,0.58205 -0.43253,1.2442 v 0.90778 h -1.01992 v -0.76361 q 0,-0.68884 0.1335,-1.03594 0.13883,-0.34709 0.40049,-0.6835 l 0.32039,-0.40583 q 0.23496,-0.29904 0.29904,-0.53933 0.0694,-0.2403 0.0694,-0.61943 v -0.76361 h -3.13452 v -3.01703 h 1.01458 z"
          id="path2181" />
