@@ -6,7 +6,7 @@
 <link rel="shortcut icon" type="x-icon" href="icon.png">
 <meta charset="utf-8">
 <script>
-  version = "Test Edition #1" //Remember to update this before making changes to the test itself!
+  version = "1.0.0" //Remember to update this before making changes to the test itself!
 </script>
 </head>
 <script type="application/javascript"
@@ -204,7 +204,7 @@ stats"></a></div></noscript>
         ctx.fillStyle="#222222"
         ctx.font="700 80px Montserrat"
         ctx.textAlign="left"
-        ctx.fillText("8 הערכים", 20, 90)
+        ctx.fillText("<p dir="rtl">8 הערכים</p>", 20, 90)
         ctx.font="50px Montserrat"
         ctx.fillText(ideology, 20, 140)
 
@@ -220,7 +220,7 @@ stats"></a></div></noscript>
         if (progress  > 30) {ctx.fillText(progress + "%", 670, 597.5)}
 
         ctx.font="300 30px Montserrat"
-        ctx.fillText("8values.github.io", 780, 60)
+        ctx.fillText("8arachim.github.io", 780, 60)
 		ctx.fillText(version, 780, 90)
         ctx.textAlign="center"
         ctx.fillText("ציר הכלכלה: " + document.getElementById("economic-label").innerHTML, 400, 175)
