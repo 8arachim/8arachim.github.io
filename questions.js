@@ -63,30 +63,12 @@ questions = [
         }
     },
     {
-        "question": "חסר",
-        "effect": {
-            "econ": -10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
-        }
-    },
-    {
         "question": "יש להעלות את המסים על העשירים כדי לכלכל את העניים",
         "effect": {
             "econ": 10,
             "dipl": 0,
             "govt": 0,
             "scty": 0
-        }
-    },
-    {
-        "question": "חסר",
-        "effect": {
-            "econ": -10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": -5
         }
     },
     {
@@ -153,29 +135,11 @@ questions = [
         }
     },
     {
-        "question": "חסר",
-        "effect": {
-            "econ": -5,
-            "dipl": 10,
-            "govt": 10,
-            "scty": 5
-        }
-    },
-    {
         "question": "חשוב לשמור על הריבונות הלאומית שלנו",
         "effect": {
             "econ": 0,
             "dipl": -10,
             "govt": -5,
-            "scty": 0
-        }
-    },
-    {
-        "question": "חסר",
-        "effect": {
-            "econ": 0,
-            "dipl": 10,
-            "govt": 0,
             "scty": 0
         }
     },
@@ -216,15 +180,6 @@ questions = [
         }
     },
     {
-        "question": "חסר",
-        "effect": {
-            "econ": 0,
-            "dipl": -10,
-            "govt": 0,
-            "scty": 0
-        }
-    },
-    {
         "question": "מחקר מדעי צריך להתבצע בקנה מידה בינלאומי",
         "effect": {
             "econ": 0,
@@ -252,7 +207,7 @@ questions = [
         }
     },
     {
-        "question": "לנסח מחדש",
+        "question": "עלי להפיץ את הערכים הדתיים שלי כמה שיותר",
         "effect": {
             "econ": 0,
             "dipl": -5,
@@ -423,7 +378,7 @@ questions = [
         }
     },
     {
-        "question": "לנסח מחדש.",
+        "question": "יש להטיל מס על ישיבותצ, בתי כנסת ומוסדות דתיים נוספים באותה צורה שממסים מוסדות אחרים",
         "effect": {
             "econ": 5,
             "dipl": 0,
@@ -465,15 +420,6 @@ questions = [
             "dipl": 0,
             "govt": 0,
             "scty": -10
-        }
-    },
-    {
-        "question": "חסר",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 10
         }
     },
     {
@@ -522,7 +468,7 @@ questions = [
         }
     },
     {
-        "question": "לנסח מחדש",
+        "question": "במידה ואנחנו מקבלים מהגרים בכלל, חשוב שהם יטמעו בתוך בתרבות שלנו",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -582,15 +528,6 @@ questions = [
             "dipl": 0,
             "govt": 0,
             "scty": -10
-        }
-    },
-    {
-        "question": "חסר",
-        "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 10
         }
     },
     {
