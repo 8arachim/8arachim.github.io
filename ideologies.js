@@ -1,6 +1,6 @@
 ideologies = [
     {
-        "name": "Anarcho-Communism",
+        "name": "אנרכו-קומוניזם",
         "stats": {
             "econ": 100,
             "dipl": 50,
@@ -9,7 +9,7 @@ ideologies = [
         }
     },
     {
-        "name": "Libertarian Communism",
+        "name": "ליברטריאניזם קומוניסטי",
         "stats": {
             "econ": 100,
             "dipl": 70,
@@ -18,7 +18,7 @@ ideologies = [
         }
     },
     {
-        "name": "Trotskyism",
+        "name": "טרוצקיזם",
         "stats": {
             "econ": 100,
             "dipl": 100,
@@ -27,7 +27,7 @@ ideologies = [
         }
     },
     {
-        "name": "Marxism",
+        "name": "מרקסיזם",
         "stats": {
             "econ": 100,
             "dipl": 70,
@@ -36,7 +36,7 @@ ideologies = [
         }
     },
     {
-        "name": "De Leonism",
+        "name": "דה לאוניזם",
         "stats": {
             "econ": 100,
             "dipl": 30,
@@ -45,7 +45,7 @@ ideologies = [
         }
     },
     {
-        "name": "Leninism",
+        "name": "לניניזם",
         "stats": {
             "econ": 100,
             "dipl": 40,
@@ -54,7 +54,7 @@ ideologies = [
         }
     },
     {
-        "name": "Stalinism/Maoism",
+        "name": "סטאנליזם/מאואיזם",
         "stats": {
             "econ": 100,
             "dipl": 20,
@@ -63,7 +63,7 @@ ideologies = [
         }
     },
     {
-        "name": "Religious Communism",
+        "name": "קומוניזם דתי",
         "stats": {
             "econ": 100,
             "dipl": 50,
@@ -72,7 +72,7 @@ ideologies = [
         }
     },
     {
-        "name": "State Socialism",
+        "name": "סוציאליזם ממלכתי",
         "stats": {
             "econ": 80,
             "dipl": 30,
@@ -81,7 +81,7 @@ ideologies = [
         }
     },
     {
-        "name": "Theocratic Socialism",
+        "name": "סוציאליזם תיאוקרטי",
         "stats": {
             "econ": 80,
             "dipl": 50,
@@ -90,7 +90,7 @@ ideologies = [
         }
     },
     {
-        "name": "Religious Socialism",
+        "name": "סוציאליזם דתי",
         "stats": {
             "econ": 80,
             "dipl": 50,
@@ -99,7 +99,7 @@ ideologies = [
         }
     },
     {
-        "name": "Democratic Socialism",
+        "name": "סוציאליזם דמוקרטי",
         "stats": {
             "econ": 80,
             "dipl": 50,
@@ -108,7 +108,7 @@ ideologies = [
         }
     },
     {
-        "name": "Revolutionary Socialism",
+        "name": "סוציאליזם מהפכני",
         "stats": {
             "econ": 80,
             "dipl": 20,
@@ -117,7 +117,7 @@ ideologies = [
         }
     },
     {
-        "name": "Libertarian Socialism",
+        "name": "סוציאליזם ליברטריאני",
         "stats": {
             "econ": 80,
             "dipl": 80,
@@ -126,7 +126,7 @@ ideologies = [
         }
     },
     {
-        "name": "Anarcho-Syndicalism",
+        "name": "אנרכו-סינדיקליזם",
         "stats": {
             "econ": 80,
             "dipl": 50,
@@ -135,7 +135,7 @@ ideologies = [
         }
     },
     {
-        "name": "Left-Wing Populism",
+        "name": "פופוליזם שמאלני",
         "stats": {
             "econ": 60,
             "dipl": 40,
@@ -144,7 +144,7 @@ ideologies = [
         }
     },
     {
-        "name": "Theocratic Distributism",
+        "name": "הפצה תיאוקרטית",
         "stats": {
             "econ": 60,
             "dipl": 40,
@@ -153,7 +153,7 @@ ideologies = [
         }
     },
     {
-        "name": "Distributism",
+        "name": "הפצה",
         "stats": {
             "econ": 60,
             "dipl": 50,
@@ -162,7 +162,7 @@ ideologies = [
         }
     },
     {
-        "name": "Social Liberalism",
+        "name": "ליברליזם חברתי",
         "stats": {
             "econ": 60,
             "dipl": 60,
@@ -171,7 +171,7 @@ ideologies = [
         }
     },
     {
-        "name": "Christian Democracy",
+        "name": "דמוקרטיה נוצרית",
         "stats": {
             "econ": 60,
             "dipl": 60,
@@ -180,7 +180,7 @@ ideologies = [
         }
     },
     {
-        "name": "Social Democracy",
+        "name": "סוציאל-דמוקרטיה",
         "stats": {
             "econ": 60,
             "dipl": 70,
@@ -189,7 +189,7 @@ ideologies = [
         }
     },
     {
-        "name": "Progressivism",
+        "name": "פרוגרסיביזם",
         "stats": {
             "econ": 60,
             "dipl": 80,
@@ -198,7 +198,7 @@ ideologies = [
         }
     },
     {
-        "name": "Anarcho-Mutualism",
+        "name": "אנרכו-מטאוליזם",
         "stats": {
             "econ": 60,
             "dipl": 50,
@@ -207,7 +207,7 @@ ideologies = [
         }
     },
     {
-        "name": "National Totalitarianism",
+        "name": "טוטליטריות לאומית",
         "stats": {
             "econ": 50,
             "dipl": 20,
@@ -216,7 +216,7 @@ ideologies = [
         }
     },
     {
-        "name": "Global Totalitarianism",
+        "name": "טוטליטריות גלובלית",
         "stats": {
             "econ": 50,
             "dipl": 80,
@@ -225,7 +225,7 @@ ideologies = [
         }
     },
     {
-        "name": "Technocracy",
+        "name": "טכנוקרטיה",
         "stats": {
             "econ": 60,
             "dipl": 60,
@@ -234,7 +234,7 @@ ideologies = [
         }
     },
     {
-        "name": "Centrist",
+        "name": "מרכז",
         "stats": {
             "econ": 50,
             "dipl": 50,
@@ -243,7 +243,7 @@ ideologies = [
         }
     },
     {
-        "name": "Liberalism",
+        "name": "ליברליזם",
         "stats": {
             "econ": 50,
             "dipl": 60,
@@ -252,7 +252,7 @@ ideologies = [
         }
     },
     {
-        "name": "Religious Anarchism",
+        "name": "אנרכיזם נוצרי",
         "stats": {
             "econ": 50,
             "dipl": 50,
@@ -261,7 +261,7 @@ ideologies = [
         }
     },
     {
-        "name": "Right-Wing Populism",
+        "name": "פופוליזם ימני",
         "stats": {
             "econ": 40,
             "dipl": 30,
@@ -270,7 +270,7 @@ ideologies = [
         }
     },
     {
-        "name": "Moderate Conservatism",
+        "name": "שמרנות מתונה",
         "stats": {
             "econ": 40,
             "dipl": 40,
@@ -279,7 +279,7 @@ ideologies = [
         }
     },
     {
-        "name": "Reactionary",
+        "name": "ריאקציוניזם",
         "stats": {
             "econ": 40,
             "dipl": 40,
@@ -288,7 +288,7 @@ ideologies = [
         }
     },
     {
-        "name": "Social Libertarianism",
+        "name": "ליברטריאניזם חברתי",
         "stats": {
             "econ": 60,
             "dipl": 70,
@@ -297,7 +297,7 @@ ideologies = [
         }
     },
     {
-        "name": "Libertarianism",
+        "name": "ליברטריאניזם",
         "stats": {
             "econ": 40,
             "dipl": 60,
@@ -306,7 +306,7 @@ ideologies = [
         }
     },
     {
-        "name": "Anarcho-Egoism",
+        "name": "אנרכיזם אגואיסטי",
         "stats": {
             "econ": 40,
             "dipl": 50,
@@ -315,7 +315,7 @@ ideologies = [
         }
     },
     {
-        "name": "Nazism",
+        "name": "נאציזם",
         "stats": {
             "econ": 40,
             "dipl": 0,
@@ -324,7 +324,7 @@ ideologies = [
         }
     },
     {
-        "name": "Autocracy",
+        "name": "אוטוקרטיה",
         "stats": {
             "econ": 50,
             "dipl": 20,
@@ -333,7 +333,7 @@ ideologies = [
         }
     },
     {
-        "name": "Fascism",
+        "name": "פאשיזם",
         "stats": {
             "econ": 40,
             "dipl": 20,
@@ -342,7 +342,7 @@ ideologies = [
         }
     },
     {
-        "name": "Capitalist Fascism",
+        "name": "פאשיזם קפיטליסטי",
         "stats": {
             "econ": 20,
             "dipl": 20,
@@ -351,7 +351,7 @@ ideologies = [
         }
     },
     {
-        "name": "Conservatism",
+        "name": "שמרנות",
         "stats": {
             "econ": 30,
             "dipl": 40,
@@ -360,7 +360,7 @@ ideologies = [
         }
     },
     {
-        "name": "Neo-Liberalism",
+        "name": "נאו-ליברליזם",
         "stats": {
             "econ": 30,
             "dipl": 30,
@@ -369,7 +369,7 @@ ideologies = [
         }
     },
     {
-        "name": "Classical Liberalism",
+        "name": "ליברליזם קלאסי",
         "stats": {
             "econ": 30,
             "dipl": 60,
@@ -378,7 +378,7 @@ ideologies = [
         }
     },
     {
-        "name": "Authoritarian Capitalism",
+        "name": "קפיטליזם אוטוריטרי",
         "stats": {
             "econ": 20,
             "dipl": 30,
@@ -387,7 +387,7 @@ ideologies = [
         }
     },
     {
-        "name": "State Capitalism",
+        "name": "קפיטליזם מדיני",
         "stats": {
             "econ": 20,
             "dipl": 50,
@@ -396,7 +396,7 @@ ideologies = [
         }
     },
     {
-        "name": "Neo-Conservatism",
+        "name": "נאו-קונסרבטיזם",
         "stats": {
             "econ": 20,
             "dipl": 20,
@@ -405,7 +405,7 @@ ideologies = [
         }
     },
     {
-        "name": "Fundamentalism",
+        "name": "פונדמנטליזם",
         "stats": {
             "econ": 20,
             "dipl": 30,
@@ -414,7 +414,7 @@ ideologies = [
         }
     },
     {
-        "name": "Libertarian Capitalism",
+        "name": "ליברטריאניזם קפיטליסטי",
         "stats": {
             "econ": 20,
             "dipl": 50,
@@ -423,7 +423,7 @@ ideologies = [
         }
     },
     {
-        "name": "Market Anarchism",
+        "name": "אנרכיזם של השוק החופשי",
         "stats": {
             "econ": 20,
             "dipl": 50,
@@ -432,7 +432,7 @@ ideologies = [
         }
     },
     {
-        "name": "Objectivism",
+        "name": "אובייקטיביזם",
         "stats": {
             "econ": 10,
             "dipl": 50,
@@ -441,7 +441,7 @@ ideologies = [
         }
     },
     {
-        "name": "Totalitarian Capitalism",
+        "name": "קפיטליזם טוטליטרי",
         "stats": {
             "econ": 0,
             "dipl": 30,
@@ -450,7 +450,7 @@ ideologies = [
         }
     },
     {
-        "name": "Ultra-Capitalism",
+        "name": "אולטרה קפיטליזם",
         "stats": {
             "econ": 0,
             "dipl": 40,
@@ -459,7 +459,7 @@ ideologies = [
         }
     },
     {
-        "name": "Anarcho-Capitalism",
+        "name": "אנרכו-קפיטליזם",
         "stats": {
             "econ": 0,
             "dipl": 50,
