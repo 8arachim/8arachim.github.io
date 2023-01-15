@@ -52,8 +52,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284271"
-     inkscape:cx="54.800776"
-     inkscape:cy="94.752309"
+     inkscape:cx="54.977553"
+     inkscape:cy="94.75231"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -499,7 +499,8 @@
     <g
        aria-label="חירות"
        id="text992"
-       style="font-size:10.9361px;line-height:1.25;fill:#eeeeee;stroke-width:0.264583">
+       style="font-size:10.9361px;line-height:1.25;fill:#eeeeee;stroke-width:0.264583"
+       transform="translate(0,-0.52916663)">
       <path
          d="m -59.738913,143.45729 h -1.01992 v -3.07044 q 0,-0.62477 -0.138837,-0.98254 -0.138837,-0.35777 -0.555349,-0.57137 -0.416512,-0.21893 -1.196136,-0.21893 -0.453891,0 -1.014579,0.0748 v 4.76852 h -1.01992 v -5.54281 q 1.142737,-0.18689 2.098578,-0.18689 1.046619,0 1.682066,0.30971 0.640787,0.30437 0.902442,0.817 0.261655,0.51263 0.261655,1.43109 z"
          id="path2048" />
